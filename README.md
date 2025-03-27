@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I’m Dana Krasnoholovets — aspiring Python developer with a taste for clean code and small clever solutions.
 
-<!--
-**Redheadish/Redheadish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about:
+- Python development (CLI tools, automation, backend basics)
+- Learning by building real, useful things
+- Growing into a tech role where I can combine logic, elegance, and empathy
 
-Here are some ideas to get you started:
+### 🌱 I’m currently:
+- Expanding my portfolio with small open-source projects
+- Learning Git, REST APIs, Flask, and testing practices
+- Exploring what it means to write good, thoughtful code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Projects
+- [To-Do CLI App](https://github.com/Redheadish/todo-cli-app): pure Python terminal app to manage tasks, save them in JSON, and interact via simple text commands.
+- (more coming soon...)
+
+### 📫 Let's connect
+- [LinkedIn](https://www.linkedin.com/in/redheadish/)
+- Email: kras.dana@gmail.com
+
+---
+
+> "The details are not the details. They make the design." – Charles Eames
